@@ -1,0 +1,2 @@
+# dip this is bassically an image processing project using yolov8 which is a pre trained model and on this pre trained model i have trained my p[roject data set which is data zip file pls look in tio that for annotation we use
+this app called labelimg i have given that in my repo and for video training stuff i will bw uploading a flask app that is for videos as the streamlit properties does not support much features for videos 
